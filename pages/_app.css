@@ -3,9 +3,8 @@
 
 @font-face {
     font-family: "Canela Deck";
-    src: local("CanelaDeck-Regular"),
-        url("/fonts/CanelaDeck-Regular.woff2") format("woff2"),
-        url("/fonts/CanelaDeck-Regular.woff") format("woff");
+    src: local("soehne-web-buch.woff2"),
+        url("/fonts/soehne-web-buch.woff2") format("woff2"),
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -13,9 +12,8 @@
 
 @font-face {
     font-family: "Canela Deck";
-    src: local("CanelaDeck-Bold"),
-        url("/fonts/CanelaDeck-Bold.woff2") format("woff2"),
-        url("/fonts/CanelaDeck-Bold.woff") format("woff");
+    src: local("soehne-web-halbfett_1.woff2"),
+        url("/fonts/soehne-web-halbfett_1.woff2") format("woff2"),
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -23,9 +21,8 @@
 
 @font-face {
     font-family: "Canela Deck";
-    src: local("CanelaDeck-Light"),
-        url("/fonts/CanelaDeck-Light.woff2") format("woff2"),
-        url("/fonts/CanelaDeck-Light.woff") format("woff");
+    src: local("soehne-web-buch.woff2"),
+        url("/fonts/soehne-web-buch.woff2") format("woff2"),
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -33,32 +30,32 @@
 
 @font-face {
     font-family: "Canela Text";
-    src: local("CanelaText-Medium"),
-        url("/fonts/CanelaText-Medium.woff2") format("woff2"),
-        url("/fonts/CanelaText-Medium.woff") format("woff");
+    src: local("signifier-light (1).ttf"),
+        url("/fonts/signifier-light (1).ttf") format("opentype"),
     font-weight: 600;
     font-style: normal;
     font-display: swap;
+    font-feature-settings: 'dlig', 'liga', 'calt', 'onum';
 }
 
 @font-face {
     font-family: "Canela Text";
-    src: local("CanelaText-Light"),
-        url("/fonts/CanelaText-Light.woff2") format("woff2"),
-        url("/fonts/CanelaText-Light.woff") format("woff");
+    src: local("signifier-light (1).ttf"),
+        url("/fonts/signifier-light (1).ttf") format("opentype"),
     font-weight: 300;
     font-style: normal;
     font-display: swap;
+    font-feature-settings: 'dlig', 'liga', 'calt', 'onum';
 }
 
 @font-face {
     font-family: "Canela Text";
-    src: local("CanelaText-LightItalic"),
-        url("/fonts/CanelaText-LightItalic.woff2") format("woff2"),
-        url("/fonts/CanelaText-LightItalic.woff") format("woff");
+    src: local("signifier-light-italic (1).ttf"),
+        url("/fonts/signifier-light-italic (1).ttf") format("opentype"),
     font-weight: 300;
     font-style: italic;
     font-display: swap;
+    font-feature-settings: 'dlig', 'liga', 'calt', 'onum';
 }
 
 /*  */
