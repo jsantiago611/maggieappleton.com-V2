@@ -58,4 +58,22 @@
     font-feature-settings: 'dlig', 'liga', 'calt', 'onum';
 }
 
+@font-face {
+    font-family: "untitled";
+    src: local("UntitledSans-Regular.otf"),
+        url("/fonts/UntitledSans-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "untitled";
+    src: local("UntitledSans-Medium.otf"),
+        url("/fonts/UntitledSans-Medium.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
 /*  */
