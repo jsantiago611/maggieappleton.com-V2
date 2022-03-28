@@ -39,9 +39,9 @@ export const GlobalStyle = createGlobalStyle`
 
 
 		/* Fonts */
-		--font-serif: 'Canela Deck', serif;
-		--font-body: 'Canela Text', serif;
-		--font-sans: 'Lato', sans-serif;
+		--font-serif: 'untitled', serif;
+		--font-body: 'untitled', serif;
+		--font-sans: 'untitled', sans-serif;
 
 
 		/* Leading */
